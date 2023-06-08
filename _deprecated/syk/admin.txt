@@ -1,0 +1,36 @@
+<div class="mt-3">
+    <b-button-group size="lg">
+      <b-button>MAIN</b-button>
+    </b-button-group>
+  </div>
+
+<h2>Admin</h2>
+<b-container class="bv-example-row">
+  <b-row>
+    <b-col>Clubs
+      <li>Number<b-button>Cancel</b-button></li>
+      <li>K-let<b-button>Cancel</b-button></li>
+      <li>Baobab<b-button>Cancel</b-button></li>
+    </b-col>
+    <b-col>REQUEST for NEW CLUBS
+      <li>Nullber
+        <b-button-group class="mx-1">
+          <b-button>Approve</b-button>
+          <b-button>Deny</b-button>
+        </b-button-group>
+      <li>NewClub
+        <b-button-group class="mx-1">
+          <b-button>Approve</b-button>
+          <b-button>Deny</b-button>
+        </b-button-group>
+    </b-col>
+   <b-col>REQUEST for HANDOVER
+     <li> ClubName Name (StudentNumber) -> Name (StudentNumber)
+        <b-button-group class="mx-1">
+          <b-button>Approve</b-button>
+          <b-button>Deny</b-button>
+        </b-button-group> 
+     </li>
+    </b-col>
+  </b-row>
+</b-container>

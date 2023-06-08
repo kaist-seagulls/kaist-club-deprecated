@@ -1,0 +1,23 @@
+<b-container class="bv-example-row">
+  <b-row>
+    <b-col>
+      <div class="clearfix">
+        <b-img right src="https://picsum.photos/125/125/?image=58" alt="Right image" rounded = circle></b-img>
+      </div>
+    </b-col>
+    <div class="w-100"></div>
+    <b-col>I am Name (StudentNumber) in aff. Contact me via (Email)</b-col>
+    <div class="w-100"></div>
+    <b-col>
+    <b-button>Manage (Club Name)</b-button>
+    </b-col>
+    <b-col>
+    <b-button>Change ID</b-button>
+    </b-col>
+    <b-col>
+    <b-button>Change PW</b-button>
+    </b-col>
+  </b-row>
+</b-container>
+
+
